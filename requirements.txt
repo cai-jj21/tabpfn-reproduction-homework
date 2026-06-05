@@ -1,0 +1,9 @@
+tabpfn==6.4.1
+tabpfn-common-utils==0.2.18
+openml==0.15.1
+scikit-learn==1.7.2
+xgboost==3.2.0
+lightgbm==4.6.0
+catboost==1.2.8
+pandas==2.3.3
+numpy==2.2.5
